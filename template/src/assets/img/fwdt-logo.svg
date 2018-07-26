@@ -1,0 +1,25 @@
+<svg width="120.00000000000001" height="40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>FWDT_LOGO</title>
+ <defs>
+  <symbol id="svg_3" viewBox="0 0 323 451" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+   <title>logo</title>
+   <desc>Created with Sketch.</desc>
+   <g fill-rule="evenodd" fill="none" id="svg_1">
+    <path fill-rule="nonzero" fill="#FFFFFF" id="svg_2" d="m304.6,17.8l-17.1,-17.2l-47.5,47.8c-12.5,12.5 -28.9,18.7 -45.2,18.5l-10.8,-0.2c-34.6,0 -50,9.3 -69.8,29.2l-25.8,25.7c-11.8,10.4 -26.5,15.7 -41.3,15.7l-47.1,0c0,0 28.3,28.5 40.6,40.9c16.5,16.5 27.3,20.3 49.4,20.5l-42.7,43c-19.8,19.9 -28.8,38 -28.8,72.9l0,136.4l84.8,0c33.6,0 64.5,-11.1 87.1,-33.9c12.3,-12.4 42.8,-42.6 42.8,-42.6c24.3,-24.5 37.5,-47.5 37.5,-89.4l0,-89.7c0.2,-32.6 6.4,-60.5 27.9,-82.1l6,-6.2c24.4,-24.7 24.5,-64.7 0,-89.3z"/>
+   </g>
+  </symbol>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <use x="-426.98895" y="-59.661663" transform="matrix(0.8045565567099533,0,0,0.7463369140184462,310.6967169461798,45.18800180872911) " xlink:href="#svg_3" id="svg_4"/>
+  <g id="svg_5"/>
+  <text font-weight="bold" fill="#ffffff" stroke-width="0" x="-120.006212" y="-80.515185" id="svg_6" font-size="29" font-family="'Courier New', Courier, monospace" text-anchor="middle" xml:space="preserve" transform="matrix(1.6875860355190442,0,0,1.3092519214552552,276.67485721560234,134.64418054454836) " stroke="#000000">WDT</text>
+  <text font-weight="bold" fill="#ffffff" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" x="640.048094" y="279.87502" id="svg_7" font-size="32" font-family="'Courier New', Courier, monospace" text-anchor="middle" xml:space="preserve" transform="matrix(0.2283428168467658,0,0,0.29554878634734355,-86.3446021492326,-46.13318256697221) " stroke="#000000">Fenrir Web Develop Template</text>
+ </g>
+</svg>
